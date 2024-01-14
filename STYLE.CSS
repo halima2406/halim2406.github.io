@@ -1,0 +1,62 @@
+h1{ 
+    margin-left: 50% ;
+    font-family: 'Times New Roman', Times, serif
+    ;
+}
+.lien{
+    margin-left: 50%;
+    text-decoration: none;
+}
+table{
+    border-collapse: collapse;
+    min-width: 400px;
+    width: auto;
+    box-shadow: 0 5px 50px rgba(0,0,0,0.15) ;
+    cursor: pointer;
+    margin: 100px auto;
+    border:2px  aqua;
+
+}
+tr  {
+    font-size: 30px;
+
+    border: 1px solid darkred;
+}
+.a {
+    background-color: darksalmon;
+}
+.ou
+{
+    background-color:darksalmon ;
+}
+ .bas{
+    margin-left: 550px;
+    color: darkcyan;
+ }
+ .pied{
+    margin-left: 300px;
+    margin-top: 180px;
+ }
+ .et{
+    margin-left: 565px;
+ 
+ }
+ .table{
+    font-size: 200px;
+ }
+ .lien1{
+    margin-left: 550px;
+ }
+ .tableau{
+    border-collapse: collapse;
+    cursor: pointer;
+    width: auto;
+
+ }
+ .tableau td tr th {
+
+    border: 1px solid #ddd;
+ }
+ img{
+    
+ }
